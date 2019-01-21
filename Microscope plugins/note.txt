@@ -1,0 +1,5 @@
+20190117 created
+	deleted conflicting items, select only ixon ultra 1024
+	dependency path change
+	change all camera driver to amtcd32d (32 bit)
+	updated typedefs 
