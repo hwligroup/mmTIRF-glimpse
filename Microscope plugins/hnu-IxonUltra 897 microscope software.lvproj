@@ -36,6 +36,7 @@
 		<Item Name="GPI-Load-Save settings.vi" Type="VI" URL="../../Glimpse core/GPI-Load-Save settings.vi"/>
 		<Item Name="Microscope software version global.vi" Type="VI" URL="../Microscope software version global.vi"/>
 		<Item Name="atmcd32d.llb" Type="Document" URL="/&lt;userlib&gt;/atmcd32d.llb"/>
+		<Item Name="shutters activate.vi" Type="VI" URL="../newhnu shutters/shutters activate.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Image.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/IMAQ Image.ctl"/>
@@ -410,6 +411,10 @@
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="su10x Configure Filter Wheel.vi" Type="VI" URL="/&lt;instrlib&gt;/su10x/su10x.llb/su10x Configure Filter Wheel.vi"/>
+				<Item Name="su10x Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/su10x/su10x.llb/su10x Initialize.vi"/>
+				<Item Name="su10x Control Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/su10x/su10x.llb/su10x Control Mode.vi"/>
+				<Item Name="su10x Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/su10x/su10x.llb/su10x Reset.vi"/>
+				<Item Name="su10x Close.vi" Type="VI" URL="/&lt;instrlib&gt;/su10x/su10x.llb/su10x Close.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="HSSpeed_type typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/HSSpeed_type typedef.ctl"/>
