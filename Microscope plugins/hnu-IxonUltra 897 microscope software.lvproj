@@ -439,51 +439,51 @@
 				<Item Name="ErrorHandler.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Common Functions/ErrorHandler.vi"/>
 				<Item Name="EncoderOpen.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Encoder/EncoderOpen.vi"/>
 				<Item Name="PhidgetClose.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Common Functions/PhidgetClose.vi"/>
-				<Item Name="Error Code Offset global.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Code Offset global.vi"/>
-				<Item Name="Add ECO For DLL.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Add ECO For DLL.vi"/>
 				<Item Name="GetAvailableCameras.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetAvailableCameras.vi"/>
-				<Item Name="Function Enum typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Enum typedef.ctl"/>
-				<Item Name="Function Error Description Cluster typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Error Description Cluster typedef.ctl"/>
 				<Item Name="Shutter_type typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/Shutter_type typedef.ctl"/>
 				<Item Name="SetShutter.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetShutter.vi"/>
-				<Item Name="Shutter_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/Shutter_mode typedef.ctl"/>
 				<Item Name="GetCameraHandle.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetCameraHandle.vi"/>
 				<Item Name="SetCurrentCamera.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetCurrentCamera.vi"/>
 				<Item Name="IsInternalMechanicalShutter.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/IsInternalMechanicalShutter.vi"/>
 				<Item Name="Error Cluster To Error Description.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Cluster To Error Description.vi"/>
-				<Item Name="Subtract ECO For LabVIEW.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Subtract ECO For LabVIEW.vi"/>
-				<Item Name="U32 To Error Code Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/U32 To Error Code Enum.vi"/>
-				<Item Name="Error Code Enum To String.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Code Enum To String.vi"/>
-				<Item Name="Error Source To Function Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Source To Function Enum.vi"/>
-				<Item Name="I32 To Function Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/I32 To Function Enum.vi"/>
-				<Item Name="Function Enum And Error Code Enum To Error Description.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Enum And Error Code Enum To Error Description.vi"/>
 				<Item Name="SetBaselineOffset.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetBaselineOffset.vi"/>
 				<Item Name="SetBaselineClamp.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetBaselineClamp.vi"/>
-				<Item Name="Function Error Descriptions global.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Error Descriptions global.vi"/>
 				<Item Name="AbortAcquisition.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/AbortAcquisition.vi"/>
 				<Item Name="SetAcquisitionMode.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetAcquisitionMode.vi"/>
-				<Item Name="AcquisitionMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/AcquisitionMode_mode typedef.ctl"/>
 				<Item Name="SetReadMode.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetReadMode.vi"/>
-				<Item Name="ReadMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/ReadMode_mode typedef.ctl"/>
 				<Item Name="SetADChannel.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetADChannel.vi"/>
 				<Item Name="SetHSSpeed.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetHSSpeed.vi"/>
 				<Item Name="SetVSSpeed.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetVSSpeed.vi"/>
 				<Item Name="SetHighCapacity.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetHighCapacity.vi"/>
 				<Item Name="SetOutputAmplifier.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetOutputAmplifier.vi"/>
-				<Item Name="OutputAmplifier_type typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/OutputAmplifier_type typedef.ctl"/>
 				<Item Name="SetVSAmplitude.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetVSAmplitude.vi"/>
 				<Item Name="SetPreAmpGain.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetPreAmpGain.vi"/>
 				<Item Name="SetTriggerMode.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetTriggerMode.vi"/>
-				<Item Name="TriggerMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/TriggerMode_mode typedef.ctl"/>
 				<Item Name="SetExposureTime.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetExposureTime.vi"/>
 				<Item Name="GetAcquisitionTimings.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetAcquisitionTimings.vi"/>
 				<Item Name="SetEMCCDGain.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetEMCCDGain.vi"/>
 				<Item Name="Error Code Handler.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Code Handler.vi"/>
 				<Item Name="Error Code Enum typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/Error Code Enum typedef.ctl"/>
+				<Item Name="Add ECO For DLL.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Add ECO For DLL.vi"/>
+				<Item Name="Error Code Offset global.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Code Offset global.vi"/>
 				<Item Name="Get Error Source.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Get Error Source.vi"/>
 				<Item Name="Join Strings.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Join Strings.vi"/>
 				<Item Name="Subtract ECO For DLL.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Subtract ECO For DLL.vi"/>
 				<Item Name="Add ECO For LabVIEW.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Add ECO For LabVIEW.vi"/>
+				<Item Name="AcquisitionMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/AcquisitionMode_mode typedef.ctl"/>
+				<Item Name="ReadMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/ReadMode_mode typedef.ctl"/>
+				<Item Name="OutputAmplifier_type typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/OutputAmplifier_type typedef.ctl"/>
+				<Item Name="TriggerMode_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/TriggerMode_mode typedef.ctl"/>
+				<Item Name="Shutter_mode typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/Shutter_mode typedef.ctl"/>
+				<Item Name="Subtract ECO For LabVIEW.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Subtract ECO For LabVIEW.vi"/>
+				<Item Name="U32 To Error Code Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/U32 To Error Code Enum.vi"/>
+				<Item Name="Error Code Enum To String.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Code Enum To String.vi"/>
+				<Item Name="Error Source To Function Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Error Source To Function Enum.vi"/>
+				<Item Name="Function Enum typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Enum typedef.ctl"/>
+				<Item Name="I32 To Function Enum.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/I32 To Function Enum.vi"/>
+				<Item Name="Function Enum And Error Code Enum To Error Description.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Enum And Error Code Enum To Error Description.vi"/>
+				<Item Name="Function Error Descriptions global.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Error Descriptions global.vi"/>
+				<Item Name="Function Error Description Cluster typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/Function Error Description Cluster typedef.ctl"/>
 				<Item Name="U32 Array To AndorCapabilities.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d_internal.llb/U32 Array To AndorCapabilities.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
@@ -655,7 +655,7 @@
 			<Item Name="Nano-drive.vi" Type="VI" URL="../USB Mad city stage/Nano-drive.vi"/>
 			<Item Name="HAL Stage close.vi" Type="VI" URL="../USB Mad city stage/HAL Stage close.vi"/>
 			<Item Name="Start! globals.vi" Type="VI" URL="../new-h-nu-ixon/Start! globals.vi"/>
-			<Item Name="Madlib.dll" Type="Document" URL="/../../../Program Files (x86)/Gelles Lab Software/Madlib.dll"/>
+			<Item Name="Madlib.dll" Type="Document" URL="/C/Program Files/Mad City Labs/NanoDrive/Labview 32-bit/Madlib.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="h-nu ixonUltra1024 microscope software LLB" Type="Source Distribution">
