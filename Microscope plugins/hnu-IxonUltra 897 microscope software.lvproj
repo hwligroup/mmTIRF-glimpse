@@ -649,7 +649,6 @@
 			<Item Name="HAL Stage close.vi" Type="VI" URL="../USB Mad city stage/HAL Stage close.vi"/>
 			<Item Name="Start! globals.vi" Type="VI" URL="../new-h-nu-ixon/Start! globals.vi"/>
 			<Item Name="Madlib.dll" Type="Document" URL="/C/Program Files/Mad City Labs/NanoDrive/Labview 32-bit/Madlib.dll"/>
-			<Item Name="matscript.dll" Type="Document"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="h-nu ixonUltra1024 microscope software LLB" Type="Source Distribution">
