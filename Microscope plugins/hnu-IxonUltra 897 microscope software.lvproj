@@ -14,9 +14,6 @@
 		<Item Name="ixon camera" Type="Folder" URL="../ixon camera">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="phidgets knobs" Type="Folder" URL="../phidgets knobs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="ixon ultra 897" Type="Folder" URL="../ixon ultra 897">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -435,10 +432,6 @@
 				<Item Name="GetHSSpeed.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetHSSpeed.vi"/>
 				<Item Name="GetVSSpeed.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetVSSpeed.vi"/>
 				<Item Name="GetPreAmpGain.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetPreAmpGain.vi"/>
-				<Item Name="EncoderGetPosition.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Encoder/EncoderGetPosition.vi"/>
-				<Item Name="ErrorHandler.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Common Functions/ErrorHandler.vi"/>
-				<Item Name="EncoderOpen.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Encoder/EncoderOpen.vi"/>
-				<Item Name="PhidgetClose.vi" Type="VI" URL="/&lt;userlib&gt;/Phidgets library/Common Functions/PhidgetClose.vi"/>
 				<Item Name="GetAvailableCameras.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/GetAvailableCameras.vi"/>
 				<Item Name="Shutter_type typedef.ctl" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/Shutter_type typedef.ctl"/>
 				<Item Name="SetShutter.vi" Type="VI" URL="/&lt;userlib&gt;/atmcd32d.llb/SetShutter.vi"/>
@@ -739,7 +732,7 @@
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="Source[7].VI.LLBtopLevel" Type="Bool">true</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[8].itemID" Type="Ref">/My Computer/phidgets knobs/knob driver 3.vi</Property>
+				<Property Name="Source[8].itemID" Type="Ref"></Property>
 				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[8].type" Type="Str">VI</Property>
 				<Property Name="Source[8].VI.LLBtopLevel" Type="Bool">true</Property>
